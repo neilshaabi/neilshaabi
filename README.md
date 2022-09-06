@@ -17,3 +17,7 @@
   <img alt="Flask" src="https://img.shields.io/badge/Flask-666666?style=for-the-badge&logo=flask&logoColor=white%22"/><span> </span>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/><span> </span>
 </p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=neilshaabi&show_icons=true&locale=en" alt="neilshaabi's GitHub stats"/>
+</p>
