@@ -19,5 +19,5 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=neilshaabi&show_icons=true&locale=en" alt="neilshaabi's GitHub stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=neilshaabi&hide=issues,stars&count_private=true&show_icons=true" alt="neilshaabi's GitHub stats"/>
 </p>
