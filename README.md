@@ -1,6 +1,6 @@
 <h1>Hi there, I’m Neil! 👋</h1>
 
-<p>I'm a second year computer science student at the University of Warwick 🎓</p>
+<p>I'm a third year computer science student at the University of Warwick 🎓</p>
 
 <a href="https://www.linkedin.com/in/neil-shaabi/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><span> </span>
