@@ -2,7 +2,7 @@
 
 <p>I'm a third year computer science student at the University of Warwick 🎓</p>
 
-<a href="https://www.linkedin.com/in/neil-shaabi/">
+<a href="https://www.linkedin.com/in/neilshaabi/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><span> </span>
 </a>
 
