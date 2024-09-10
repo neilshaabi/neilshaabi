@@ -8,7 +8,7 @@
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><span> </span>
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/><span> </span>
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/><span> </span>
   <img alt="C" src="https://img.shields.io/badge/C-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/><span> </span>
   <img alt="Haskell" src="https://img.shields.io/badge/Haskell-%235E5086.svg?style=for-the-badge&logo=haskell&logoColor=white"/><span> </span>
   <img alt="SQLite" src="https://img.shields.io/badge/sqlite-244960?style=for-the-badge&logo=sqlite&logoColor=white%22"/><span> </span>  
